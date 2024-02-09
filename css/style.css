@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .menu-container {
+    color: #fff;
+    background-color: #5995DA;  /* Blue */
+    padding: 20px 0;
+    display: flex;
+    justify-content: center; 
+  }
+  
+  .menu {
+    border: 1px solid red;
+    width: 900px;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .date{
+    border: 1px solid pink;
+    display: flex;
+    justify-content: flex-start;
+
+  }
+  .links{
+    border: 1px solid yellow;  /* For debugging */
+    display: flex;
+    justify-content: flex-end;
+    gap: 15px;
+  }
+
+  .main-container {
+    background-color: white;  /* Blue */
+    padding: 20px 0;
+    display: flex;
+    justify-content: center; 
+  }
+
+  .main {
+    border: 1px solid red;
+    width: 900px;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .sign-up-block {
+
+  }
+
+  .picture {
+    
+  }
